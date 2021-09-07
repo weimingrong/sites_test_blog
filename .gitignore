@@ -1,0 +1,7 @@
+vendor/
+_site/
+.cecil/
+.cache/
+themes/*
+cecil.phar
+composer.phar
